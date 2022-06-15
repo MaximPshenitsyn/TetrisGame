@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.example.pshenitsyn_maxim_203_hw5_tetris.HelloApplication
+
