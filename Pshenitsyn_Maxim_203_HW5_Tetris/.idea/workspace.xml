@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Pshenitsyn_Maxim_203_HW5_Tetris_Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42b8b3a1-f07f-4de4-b840-69cadfd4cf93" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="27CL8kuMIl2JYAk81K3LYTicvZv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Maxim/Sharper" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxo7\Desktop\projects\2. Tetris\Pshenitsyn_Maxim_203_HW5_Tetris\RUNFILES" />
+      <recent name="C:\Users\maxo7\Desktop\Maxim\Pshenitsyn_Maxim_203_HW5_Tetris\RUNFILES" />
+      <recent name="C:\Users\maxo7\Desktop\Maxim\Pshenitsyn_Maxim_203_HW5_Tetris\src\main\java\com\example\pshenitsyn_maxim_203_hw5_tetris" />
+      <recent name="C:\Users\maxo7\Desktop\Maxim\Pshenitsyn_Maxim_203_HW5_Tetris\src\main\java\engine" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxo7\Desktop\Maxim\Pshenitsyn_Maxim_203_HW5_Tetris\RUNFILES" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.pshenitsyn_maxim_203_hw5_tetris.HelloApplication" />
+      <module name="Pshenitsyn_Maxim_203_HW5_Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.pshenitsyn_maxim_203_hw5_tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.pshenitsyn_maxim_203_hw5_tetris.Server" />
+      <module name="Pshenitsyn_Maxim_203_HW5_Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.pshenitsyn_maxim_203_hw5_tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pshenitsyn_Maxim_203_HW5_Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_package" />
+      <option name="MAIN_CLASS_NAME" value="test_package.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pshenitsyn_Maxim_203_HW5_Tetris-1.0-SNAPSHOT.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Pshenitsyn_Maxim_203_HW5_Tetris-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="JAR Application.Pshenitsyn_Maxim_203_HW5_Tetris-1.0-SNAPSHOT.jar" />
+      <item itemvalue="JUnit.Tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="JUnit.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42b8b3a1-f07f-4de4-b840-69cadfd4cf93" name="Changes" comment="" />
+      <created>1648818965824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648818965824</updated>
+      <workItem from="1648818966982" duration="628000" />
+      <workItem from="1648976445768" duration="741000" />
+      <workItem from="1648980303443" duration="22536000" />
+      <workItem from="1649027142404" duration="632000" />
+      <workItem from="1649061137840" duration="1142000" />
+      <workItem from="1649405551216" duration="327000" />
+      <workItem from="1652202681455" duration="1666000" />
+      <workItem from="1652215038765" duration="7784000" />
+      <workItem from="1652295791034" duration="6237000" />
+      <workItem from="1652352552707" duration="9822000" />
+      <workItem from="1652437557970" duration="12212000" />
+      <workItem from="1652451117642" duration="1537000" />
+      <workItem from="1652455642388" duration="13252000" />
+      <workItem from="1652469798385" duration="845000" />
+      <workItem from="1652471048586" duration="201000" />
+      <workItem from="1655284863721" duration="2858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
